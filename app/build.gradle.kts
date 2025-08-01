@@ -22,7 +22,7 @@ android {
     namespace = "com.tsng.hidemyapplist"
 
     defaultConfig {
-        applicationId = "com.miHoYo.Yuanshen"
+        applicationId = "com.wo2aichishi.shi4zhengxiang"
     }
     buildFeatures {
         buildConfig = true
